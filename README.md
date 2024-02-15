@@ -10,20 +10,20 @@ O jogador controla o personagem principal, Pac-Man <img src="ImagensProjetoFinal
     <td align="center" style="width: 25%;">
       <img src="ImagensProjetoFinalizado\Blinky.png" alt="Pac-Man" width="15" height="15" style="transform: scaleX(-1);">
     </td>
-    <td align="center" style="width: 25%;">Blinky</td>
     <td align="center" style="width: 25%;">
       <img src="ImagensProjetoFinalizado\Inky.png" alt="Pac-Man" width="15" height="15">
     </td>
-    <td align="center" style="width: 25%;">Inky</td>
-  </tr>
-  <tr>
     <td align="center" style="width: 25%;">
       <img src="ImagensProjetoFinalizado\Clyde.png" alt="Pac-Man" width="15" height="15">
     </td>
-    <td align="center" style="width: 25%;">Clyde</td>
     <td align="center" style="width: 25%;">
       <img src="ImagensProjetoFinalizado\Pinky.png" alt="Pac-Man" width="15" height="15">
     </td>
+  </tr>
+  <tr>
+    <td align="center" style="width: 25%;">Blinky</td>
+    <td align="center" style="width: 25%;">Inky</td>
+    <td align="center" style="width: 25%;">Clyde</td>
     <td align="center" style="width: 25%;">Pinky</td>
   </tr>
 </table>
