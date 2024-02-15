@@ -57,6 +57,7 @@ Busquei implementar o comportamento dos fantasmas conforme o game original, tant
 # ᗣ ·· Imagens do Jogo (Play Mode - Unity)
 <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 50%;">
+<<<<<<< HEAD
         <img src="ImagensProjetoFinalizado\Unity_Pacman02.png" alt="Pac-Man" width="210">
     </div>
     <div style="flex: 50%;">
@@ -67,6 +68,18 @@ Busquei implementar o comportamento dos fantasmas conforme o game original, tant
     </div>
     <div style="flex: 50%;">
         <img src="ImagensProjetoFinalizado\Unity_Pacman05.png" alt="Pac-Man" width="500">
+=======
+        <img src="Imagens Projeto Finalizado\Unity_Pacman02.png" alt="Projeto Pac-Man 02" width="210">
+    </div>
+    <div style="flex: 50%;">
+        <img src="Imagens Projeto Finalizado\Unity_Pacman03.png" alt="Projeto Pac-Man 03" width="204">
+    </div>
+    <div style="flex: 50%;">
+        <img src="Imagens Projeto Finalizado\Unity_Pacman04.png" alt="Projeto Pac-Man 04" width="209">
+    </div>
+    <div style="flex: 50%;">
+        <img src="Imagens Projeto Finalizado\Unity_Pacman05.png" alt="Projeto Pac-Man 05" width="500">
+>>>>>>> bce9de3fc1cdd6fed8963aa83ea65339ab56d69b
     </div>
 </div>
 
