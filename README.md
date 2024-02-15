@@ -1,3 +1,10 @@
+<style>
+  body {
+    background-color: #1f1f1f;
+    color: white;
+  }
+</style>
+
 # ᗣ ··· ᗣ ·· Pac-Man ·· ᗣ ··· ᗣ
 
 Recriação do famoso jogo Pac-Man <img src="ImagensProjetoFinalizado\Pac-Man.png" alt="Pac-Man" width="12" height="12" style="transform: scaleX(-1);"> na game engine Unity em C#, que foi lançado pela primeira vez em 1980 pela empresa japonesa Namco.
