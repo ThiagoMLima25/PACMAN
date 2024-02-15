@@ -5,35 +5,28 @@ Recriação do famoso jogo Pac-Man <img src="ImagensProjetoFinalizado\Pac-Man.pn
 # ᗣ ·· Jogabilidade
 O jogador controla o personagem principal, Pac-Man <img src="ImagensProjetoFinalizado\Pac-Man.png" alt="Pac-Man" width="12" height="12" style="transform: scaleX(-1);">, em um labirinto cheio de pac-dots, além de fugir dos quatro fantasmas coloridos: 
 
-<div style="display: flex; flex-wrap: wrap;">
-    <div style="flex: 25%;" align="center">
-        <img src="ImagensProjetoFinalizado\Blinky.png" alt="Pac-Man" width="15" height="15" style="transform: scaleX(-1);">
-    </div>
-    <div style="flex: 25%;" align="center">
-        <img src="ImagensProjetoFinalizado\Inky.png" alt="Pac-Man" width="15" height="15">
-    </div>
-    <div style="flex: 25%;" align="center">
-        <img src="ImagensProjetoFinalizado\Clyde.png" alt="Pac-Man" width="15" height="15">
-    </div>
-    <div style="flex: 25%;" align="center">
-        <img src="ImagensProjetoFinalizado\Pinky.png" alt="Pac-Man" width="15" height="15">
-    </div>
-</div>
-
-<div style="display: flex; flex-wrap: wrap;">
-    <div style="flex: 25%;" align="center">
-        Blinky
-    </div>
-    <div style="flex: 25%;" align="center">
-       Pinky
-    </div>
-    <div style="flex: 25%;" align="center">
-       Inky
-    </div>
-    <div style="flex: 25%;" align="center">
-        Clyde
-    </div>
-</div>
+<table>
+  <tr>
+    <td align="center" style="width: 25%;">
+      <img src="ImagensProjetoFinalizado\Blinky.png" alt="Pac-Man" width="15" height="15" style="transform: scaleX(-1);">
+    </td>
+    <td align="center" style="width: 25%;">Blinky</td>
+    <td align="center" style="width: 25%;">
+      <img src="ImagensProjetoFinalizado\Inky.png" alt="Pac-Man" width="15" height="15">
+    </td>
+    <td align="center" style="width: 25%;">Inky</td>
+  </tr>
+  <tr>
+    <td align="center" style="width: 25%;">
+      <img src="ImagensProjetoFinalizado\Clyde.png" alt="Pac-Man" width="15" height="15">
+    </td>
+    <td align="center" style="width: 25%;">Clyde</td>
+    <td align="center" style="width: 25%;">
+      <img src="ImagensProjetoFinalizado\Pinky.png" alt="Pac-Man" width="15" height="15">
+    </td>
+    <td align="center" style="width: 25%;">Pinky</td>
+  </tr>
+</table>
 
 <br/>
 
