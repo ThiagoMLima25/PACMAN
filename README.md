@@ -1,10 +1,3 @@
-<style>
-  body {
-    background-color: #1f1f1f;
-    color: white;
-  }
-</style>
-
 # ᗣ ··· ᗣ ·· Pac-Man ·· ᗣ ··· ᗣ
 
 Recriação do famoso jogo Pac-Man <img src="ImagensProjetoFinalizado\Pac-Man.png" alt="Pac-Man" width="12" height="12" style="transform: scaleX(-1);"> na game engine Unity em C#, que foi lançado pela primeira vez em 1980 pela empresa japonesa Namco.
@@ -55,20 +48,10 @@ Busquei implementar o comportamento dos fantasmas conforme o game original, tant
 <br/>
 
 # ᗣ ·· Imagens do Jogo (Play Mode - Unity)
-<div style="display: flex; flex-wrap: wrap;">
-    <div style="flex: 50%;">
-        <img src="ImagensProjetoFinalizado\Unity_Pacman02.png" alt="Pac-Man" width="210">
-    </div>
-    <div style="flex: 50%;">
-        <img src="ImagensProjetoFinalizado\Unity_Pacman03.png" alt="Pac-Man" width="204">
-    </div>
-    <div style="flex: 50%;">
-        <img src="ImagensProjetoFinalizado\Unity_Pacman04.png" alt="Pac-Man" width="209">
-    </div>
-    <div style="flex: 50%;">
-        <img src="ImagensProjetoFinalizado\Unity_Pacman05.png" alt="Pac-Man" width="500">
-    </div>
-</div>
+<img src="ImagensProjetoFinalizado\Unity_Pacman02.png" alt="Pac-Man" width="210">
+<img src="ImagensProjetoFinalizado\Unity_Pacman03.png" alt="Pac-Man" width="204">
+<img src="ImagensProjetoFinalizado\Unity_Pacman04.png" alt="Pac-Man" width="209">
+<img src="ImagensProjetoFinalizado\Unity_Pacman05.png" alt="Pac-Man" width="500">
 
 <br/>
 
