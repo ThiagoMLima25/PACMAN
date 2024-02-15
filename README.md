@@ -33,7 +33,7 @@ O jogador controla o personagem principal, Pac-Man <img src="ImagensProjetoFinal
 O objetivo é comer todos os pontos pac-dots do labirinto enquanto evita ser capturado pelos fantasmas.
 
 # ᗣ ·· Ghost Behaviour
-Busquei implementar o comportamento dos fantasmas conforme o game original, tanto no tempo de saída da casa fantasma, movimentos individuais de cada fanstasma quanto no Scatter Mode e Chase mode.
+Busquei implementar o comportamento dos fantasmas conforme o game original, tanto no tempo de saída da casa fantasma, movimentos individuais de cada fanstasma quanto no Scatter Mode e Chase mode. Além do sistema de vida e pontuação.
 <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 100%;" align="center">
         <img src="ImagensProjetoFinalizado\ScatterMode.png" alt="Pac-Man">
@@ -49,17 +49,19 @@ Busquei implementar o comportamento dos fantasmas conforme o game original, tant
 
 # ᗣ ·· Imagens do Jogo (Play Mode - Unity)
 <table>
-  <tr align="center" style="width: 25%;">
-    <img src="ImagensProjetoFinalizado\Unity_Pacman02.PNG" alt="Pac-Man" width="210">
-  </tr>
-  <tr align="center" style="width: 25%;">
-    <img src="ImagensProjetoFinalizado\Unity_Pacman03.PNG" alt="Pac-Man" width="204">
-  </tr>
-  <tr align="center" style="width: 25%;">
-    <img src="ImagensProjetoFinalizado\Unity_Pacman04.PNG" alt="Pac-Man" width="209">
-  </tr>
-  <tr align="center" style="width: 25%;">
-    <img src="ImagensProjetoFinalizado\Unity_Pacman05.PNG" alt="Pac-Man" width="226">
+  <tr>
+    <td align="center" style="width: 25%;">
+      <img src="ImagensProjetoFinalizado\Unity_Pacman02.PNG" alt="Pac-Man" width="210">
+    </td>
+    <td align="center" style="width: 25%;">
+      <img src="ImagensProjetoFinalizado\Unity_Pacman03.PNG" alt="Pac-Man" width="204">
+    </td>
+    <td align="center" style="width: 25%;">
+      <img src="ImagensProjetoFinalizado\Unity_Pacman04.PNG" alt="Pac-Man" width="209">
+    </td>
+    <td align="center" style="width: 25%;">
+      <img src="ImagensProjetoFinalizado\Unity_Pacman05.PNG" alt="Pac-Man" width="226">
+    </td>
   </tr>
 </table>
 
