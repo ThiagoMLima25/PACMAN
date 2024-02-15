@@ -33,7 +33,7 @@ O jogador controla o personagem principal, Pac-Man <img src="ImagensProjetoFinal
 O objetivo é comer todos os pontos pac-dots do labirinto enquanto evita ser capturado pelos fantasmas.
 
 # ᗣ ·· Ghost Behaviour
-Busquei implementar o comportamento dos fantasmas conforme o game original, tanto no tempo de saída da casa fantasma, movimentos individuais de cada fanstasma quanto no Scatter Mode e Chase mode.
+Busquei implementar o comportamento dos fantasmas conforme o game original, tanto no tempo de saída da casa fantasma, movimentos individuais de cada fanstasma quanto no Scatter Mode e Chase mode. Além do sistema de vida e pontuação.
 <div style="display: flex; flex-wrap: wrap;">
     <div style="flex: 100%;" align="center">
         <img src="ImagensProjetoFinalizado\ScatterMode.png" alt="Pac-Man">
