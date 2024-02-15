@@ -48,10 +48,20 @@ Busquei implementar o comportamento dos fantasmas conforme o game original, tant
 <br/>
 
 # ᗣ ·· Imagens do Jogo (Play Mode - Unity)
-<img src="ImagensProjetoFinalizado\Unity_Pacman02.PNG" alt="Pac-Man" width="210">
-<img src="ImagensProjetoFinalizado\Unity_Pacman03.PNG" alt="Pac-Man" width="204">
-<img src="ImagensProjetoFinalizado\Unity_Pacman04.PNG" alt="Pac-Man" width="209">
-<img src="ImagensProjetoFinalizado\Unity_Pacman05.PNG" alt="Pac-Man" width="500">
+<table>
+  <tr>
+    <img src="ImagensProjetoFinalizado\Unity_Pacman02.PNG" alt="Pac-Man" width="210">
+  </tr>
+  <tr>
+    <img src="ImagensProjetoFinalizado\Unity_Pacman03.PNG" alt="Pac-Man" width="204">
+  </tr>
+  <tr>
+    <img src="ImagensProjetoFinalizado\Unity_Pacman04.PNG" alt="Pac-Man" width="209">
+  </tr>
+  <tr>
+    <img src="ImagensProjetoFinalizado\Unity_Pacman05.PNG" alt="Pac-Man" width="226">
+  </tr>
+</table>
 
 <br/>
 
